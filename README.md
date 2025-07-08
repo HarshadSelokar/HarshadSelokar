@@ -99,25 +99,6 @@
 
 ---
 
-## 🌟 Top Contributed Repo
-
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/repo-Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio Repo"/>
-      <br>
-      <a href="https://github.com/HarshadSelokar/Portfolio-">Portfolio-</a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/repo-MERN%20Stack%20Project-green?style=for-the-badge&logo=github" alt="MERN Stack Project Repo"/>
-      <br>
-      <a href="https://github.com/HarshadSelokar/MERN-Stack-Project">MERN-Stack-Project</a>
-    </td>
-    <!-- Add more repos as needed -->
-  </tr>
-</table>
-
----
 
 ## 🎯 Top Skills & Passions
 
@@ -135,9 +116,3 @@
 - 🥁 TABLA & Acoustic Drum
 
 ---
-
-> **Style:** Professional, fun, minimalist, and creative!
-
----
-
-<!-- Inspired by the style in the given image ![image1](image1) -->
