@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/harshad-selokar-9a68aa287">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="[https://harshadselokar.github.io/Portfolio-/](https://portfolio-rho-three-69.vercel.app/)">
+  <a href="https://portfolio-rho-three-69.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome&style=for-the-badge" alt="Portfolio"/>
   </a>
   <img src="https://img.shields.io/badge/Skills-MERN%20Stack%20%7C%20AI%2FML%20%7C%20Data%20Analytics-ff69b4?style=for-the-badge" alt="Skills"/>
