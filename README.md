@@ -29,7 +29,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/harshad-selokar-9a68aa287)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=google-chrome&style=flat-square)](https://harshadselokar.github.io/Portfolio-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=google-chrome&style=flat-square)](https://portfolio-rho-three-69.vercel.app/)
 
 ---
 
