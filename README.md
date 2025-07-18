@@ -1,8 +1,6 @@
 <h1 align="center">H A R S H A D  .  S E L O K A R</h1>
 <p align="center">
-  <a href="https://github.com/HarshadSelokar">
-    <img src="https://img.shields.io/github/followers/HarshadSelokar?label=Follow&logo=github&style=for-the-badge" alt="GitHub followers"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/harshad-selokar-9a68aa287">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
