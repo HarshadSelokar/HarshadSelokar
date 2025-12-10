@@ -87,16 +87,15 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-stats-harshad.vercel.app/api?username=HarshadSelokar&show_icons=true&theme=radical)
-![Languages](https://github-stats-harshad.vercel.app/api/top-langs/?username=HarshadSelokar&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=HarshadSelokar&theme=radical)
-
+![Harshad Selokar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshadSelokar&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadSelokar&layout=compact&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshadSelokar&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HarshadSelokar&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarshadSelokar&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
