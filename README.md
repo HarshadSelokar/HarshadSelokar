@@ -99,6 +99,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HarshadSelokar&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarshadSelokar&theme=onedark&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
 
