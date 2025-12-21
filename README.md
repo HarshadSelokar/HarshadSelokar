@@ -124,5 +124,8 @@
 - 🥁 TABLA & Acoustic Drum
 
 ---
+ <div align="center">
+        <img alt="Visitor Stats" src="https://widgetbite.com/stats/HarshadSelokar"/>  
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=HarshadSelokar&color=brightgreen" alt="watching_count" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar)
