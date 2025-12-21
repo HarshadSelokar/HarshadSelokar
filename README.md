@@ -91,19 +91,10 @@
 
 ---
 
-## 🏆 GitHub Trophies 
-[![trophy]()](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarshadSelokar&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarshadSelokar&v=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=HarshadSelokar&theme=onedark&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Followers](https://img.shields.io/github/followers/HarshadSelokar?style=flat-square)
- <div align="center">
+<div align="center">
       <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar) -->
        <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=HarshadSelokar&theme=radical&margin-w=15"/> 
 </div>
@@ -128,6 +119,9 @@
 ---
  <div align="center">
         <img alt="Visitor Stats" src="https://widgetbite.com/stats/HarshadSelokar"/>  
+        <img alt="visit" src="https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar"/>
+</div>
+<div align="center"> 
         <img alt="visit" src="https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar"/>
 </div>
 
