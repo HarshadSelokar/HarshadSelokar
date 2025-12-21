@@ -92,7 +92,6 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarshadSelokar&theme=onedark&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
       <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar) -->
@@ -119,7 +118,6 @@
 ---
  <div align="center">
         <img alt="Visitor Stats" src="https://widgetbite.com/stats/HarshadSelokar"/>  
-        <img alt="visit" src="https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar"/>
 </div>
 <div align="center"> 
         <img alt="visit" src="https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar"/>
