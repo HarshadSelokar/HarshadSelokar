@@ -95,7 +95,7 @@
 
 <div align="center">
       <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar) -->
-       <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=HarshadSelokar&theme=radical&margin-w=15"/> 
+       <img alt="trophies" src="https://github-trophies.vercel.app/?username=HarshadSelokar"/> 
 </div>
 
 
