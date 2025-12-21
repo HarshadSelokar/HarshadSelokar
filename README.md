@@ -128,4 +128,7 @@
         <img alt="Visitor Stats" src="https://widgetbite.com/stats/HarshadSelokar"/>  
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar)
+---
+ <div align="center">
+      ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar)
+</div>
