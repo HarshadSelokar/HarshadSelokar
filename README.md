@@ -130,5 +130,6 @@
 
 ---
  <div align="center">
-      ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar)
+      <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar) -->
+ <img alt="visit" src="https://visitor-badge.laobi.icu/badge?page_id=HarshadSelokar.HarshadSelokar"/>
 </div>
