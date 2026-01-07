@@ -93,8 +93,13 @@
 ---
 ## 📊 GitHub Stats 
 ![Harshad Selokar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshadSelokar&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadSelokar&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshadSelokar&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+
+
+[![Harshad’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshadSelokar&show_icons=true&theme=radical)](https://github.com/HarshadSelokar)
 
 ---
 
