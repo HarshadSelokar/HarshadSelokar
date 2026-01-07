@@ -99,7 +99,7 @@
 
 
 
-[![Harshad’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshadSelokar&show_icons=true&theme=radical)](https://github.com/HarshadSelokar)
+
 
 ---
 
