@@ -98,6 +98,18 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshadSelokar&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 
+<div align="center">
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshadSelokar&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true)](https://github.com/HarshadSelokar)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshadSelokar&theme=dark&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakNum=79c0ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9)](https://github.com/HarshadSelokar)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadSelokar&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9)](https://github.com/HarshadSelokar)
+
+</div>
+
 
 
 
