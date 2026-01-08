@@ -100,8 +100,7 @@
 
 
 <div align="center">
-
-![GitHub Stats](https://raw.githubusercontent.com/HarshadSelokar/HarshadSelokar/master/profile-3d-contrib/profile-night-rainbow.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarshadSelokar1&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
