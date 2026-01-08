@@ -99,7 +99,11 @@
 
 
 
-[![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-blue?style=for-the-badge&logo=github)](https://github.com/HarshadSelokar)
+<div align="center">
+
+![GitHub Stats](https://raw.githubusercontent.com/HarshadSelokar/HarshadSelokar/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
 
 
 
