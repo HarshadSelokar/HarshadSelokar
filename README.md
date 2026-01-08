@@ -99,10 +99,7 @@
 
 
 
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HarshadSelokar1&theme=dark)](https://git.io/streak-stats)
-
-</div>
 
 
 
