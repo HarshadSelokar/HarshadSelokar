@@ -92,12 +92,13 @@
 
 ---
 ## 📊 GitHub Stats 
+<!--
 ![Harshad Selokar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshadSelokar&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadSelokar&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshadSelokar&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-
+-->
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
@@ -105,7 +106,7 @@
     </a>
 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HarshadSelokar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HarshadSelokar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HarshadSelokar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HarshadSelokar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook&hide=HTML,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HarshadSelokar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HarshadSelokar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Swift,Jupyter%20Notebook,Roff" height="192px"/></a>
 
 ---
 
