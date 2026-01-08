@@ -99,7 +99,10 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarshadSelokar&theme=dark)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HarshadSelokar's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=HarshadSelokar&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HarshadSelokar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HarshadSelokar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HarshadSelokar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HarshadSelokar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
