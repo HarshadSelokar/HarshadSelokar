@@ -118,6 +118,8 @@
 </div>
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshadSelokar&theme=aura_dark&utcOffset=8)
+
 ---
 
 
